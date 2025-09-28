@@ -1,9 +1,9 @@
-# <h1 align="center">Laporan Praktikum Modul X <br> Nama Modul</h1>
-<p align="center">NAMA - NIM</p>
+# <h1 align="center">Laporan Praktikum Modul X <br> Modul 1 Pengenalan C++ </h1>
+<p align="center">Salsabilla Nurul Hassanah - 103112430256</p>
 
 ## Dasar Teori
 
-yang panjang dikit
+Pemrograman dengan C++ merupakan salah satu dasar penting dalam pembelajaran algoritma karena mendukung operasi input, proses, dan output secara terstruktur. Pada soal pertama, konsep yang digunakan adalah tipe data float dan operator aritmatika (+, -, *, /) untuk melakukan perhitungan matematis. Soal kedua menerapkan logika pemetaan (mapping) dan percabangan untuk mengubah angka bulat 0–100 menjadi bentuk teks, yang banyak diaplikasikan pada sistem konversi angka ke tulisan. Sementara itu, soal ketiga melatih pemahaman looping bersarang (nested loop) untuk membentuk pola angka dengan format tertentu. Ketiga latihan ini menunjukkan penerapan dasar teori pemrograman, yaitu bagaimana data dari pengguna diproses melalui algoritma yang sesuai, lalu menghasilkan keluaran yang diharapkan.
 
 ## Unguided
 
@@ -15,7 +15,7 @@ aku mengerjakan perulangan
 
 ### Soal 1
 
-copy paste soal nomor 1 disini
+Buatlah program yang menerima input-an dua buah bilangan bertipe float, kemudian memberikan output-an hasil penjumlahan, pengurangan, perkalian, dan pembagian dari dua bilangan tersebut.
 
 ```go
 package main
@@ -35,7 +35,8 @@ Penjelasan ttg kode kalian disini
 
 ### Soal 2
 
-soal nomor 2A
+Buatlah sebuah program yang menerima masukan angka dan mengeluarkan output nilai angka tersebut dalam bentuk tulisan. Angka yang akan di-input-kan user adalah bilangan bulat positif mulai dari 0 s.d 100.
+Contoh : 79 : tujuh puluh sembilan
 
 ```go
 package main
